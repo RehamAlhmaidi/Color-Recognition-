@@ -76,7 +76,7 @@ python color_recognition.py
 ## Source Code
 
 - [color_recognition.py](c_detection.py) - Detects colors in real-time.
-- [hsv_color_selector.py](https://github.com/your-username/your-repo/blob/main/hsv_color_selector.py) - Interactive HSV color selection.
+- [hsv_color_selector.py](HSV.py) - Interactive HSV color selection.
 
 
 
