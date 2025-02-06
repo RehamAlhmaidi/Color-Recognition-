@@ -61,7 +61,8 @@ python color_recognition.py
 ## Example Outputs
 ### HSV Color Selector
 
-![Screenshot 2025-02-04 215139](https://github.com/user-attachments/assets/511acb3c-7ed2-47bb-9a2f-94737814c786)
+
+![Screenshot 2025-02-06 142505](https://github.com/user-attachments/assets/dd37235d-6f79-41c5-887b-3cd14e7462d3)
 
 
 
@@ -69,7 +70,9 @@ python color_recognition.py
 
 ### Real-Time Color Detection
 
+
 ![Screenshot 2025-02-04 225818](https://github.com/user-attachments/assets/80fe5a13-a4a8-4cb7-8449-a86cba7cb09f)
+
 
 
 
